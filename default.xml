@@ -14,5 +14,5 @@
   <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="ad667afe266eb1ca706bf92ea6d99cc9ec74d662"/>
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="8826802b453ef2ead61b07c7bc5ab525a405df04"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="52380df998b3a8fe6a091f8547434a3231320a8e"/>
-  <project name="meta-st-odyssey" path="layers/meta-st-odyssey" remote="n35tef"  revision="4c07884b30bc6d9e2b07af647502efd5f8f58c05"/>
+  <project name="meta-st-odyssey" path="layers/meta-st-odyssey" remote="n35tef"  revision="ca506e61b17163d3d1961265c85acd90ff8170f1"/>
 </manifest>
